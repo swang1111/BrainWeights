@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="86608 + 80181 = 90166" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="66189 + 69661 = ?" />
+
+    <CheckBox
+        android:id="@+id/checkbox_88168"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="88168"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <CheckBox
+        android:id="@+id/checkbox_135850"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="135850"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <CheckBox
+        android:id="@+id/checkbox_89188"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="89188"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <CheckBox
+        android:id="@+id/checkbox_99681"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="99681"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hint" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next" />
+
+</LinearLayout>
